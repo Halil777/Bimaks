@@ -13,6 +13,7 @@
     "@mui/icons-material": "^5.14.19",
     "@mui/material": "^5.14.19",
     "@mui/styled-engine-sc": "^6.0.0-alpha.7",
+    "antd": "^5.11.5",
     "autoprefixer": "^10.4.16",
     "axios": "^1.6.2",
     "i18next": "^23.7.7",
