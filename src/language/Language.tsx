@@ -35,7 +35,7 @@ const Language: React.FC<LanguageProps> = () => {
           <>
             <img
               src="./images/ru.svg"
-              style={{ width: "20px", marginRight: 10 }}
+              style={{ width: "16px", marginRight: 10 }}
               alt="russian flag"
             />
             <Typography>Русский</Typography>
@@ -44,7 +44,7 @@ const Language: React.FC<LanguageProps> = () => {
           <>
             <img
               src="./images/uk.svg"
-              style={{ width: "20px", marginRight: 10 }}
+              style={{ width: "16px", marginRight: 10 }}
               alt="russian flag"
             />
             <Typography>English</Typography>
@@ -53,7 +53,7 @@ const Language: React.FC<LanguageProps> = () => {
           <>
             <img
               src="./images/tm.png"
-              style={{ width: "20px", marginRight: 10 }}
+              style={{ width: "16px", marginRight: 10 }}
               alt="russian flag"
             />
             <Typography>Türkmençe</Typography>
@@ -73,7 +73,7 @@ const Language: React.FC<LanguageProps> = () => {
           <>
             <img
               src="./images/ru.svg"
-              style={{ width: "20px", marginRight: 10 }}
+              style={{ width: "16px", marginRight: 10 }}
               alt="russian flag"
             />
             Русский
@@ -83,7 +83,7 @@ const Language: React.FC<LanguageProps> = () => {
           <>
             <img
               src="./images/uk.svg"
-              style={{ width: "20px", marginRight: 10 }}
+              style={{ width: "16px", marginRight: 10 }}
               alt="english flag"
             />
             English
@@ -93,7 +93,7 @@ const Language: React.FC<LanguageProps> = () => {
           <>
             <img
               src="./images/tm.png"
-              style={{ width: "20px", marginRight: 10 }}
+              style={{ width: "16px", marginRight: 10 }}
               alt="turkmen flag"
             />
             Türkmençe
